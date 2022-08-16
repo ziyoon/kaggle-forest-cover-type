@@ -1,7 +1,10 @@
 
+**/.DS_Store
 
-# data .csv files
-data/
+# code files
+code/*
+!code/JY_*
+
 
 
 # Byte-compiled / optimized / DLL files
